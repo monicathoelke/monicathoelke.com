@@ -20,4 +20,5 @@ some more words
 lorem ipsum dolor...
 
 * bullet 1
-* bullet 2
+* *bullet 2*
+* **bold bullet**
